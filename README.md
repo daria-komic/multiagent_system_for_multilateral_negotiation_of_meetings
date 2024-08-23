@@ -1,4 +1,4 @@
-# viseagenti_sustav_za_multilateralno_pregovaranje_termina_sastanka
+# multiagent_system_for_multilateral_negotiation_of_meetings
 
 A multilateral multi-agent program for the negotiation of meetings. 
 
